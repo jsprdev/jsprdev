@@ -14,18 +14,24 @@
 
 ### 🧑‍💻 who am i?
 
-i'm a **Computer Science student at NUS** (AI specialisation) who loves building things that matter, from full-stack mobile apps to AI-powered systems to 2D platformer games with original soundtracks. currently interning at **GovTech Singapore**, making government digital services better for everyone.
+i'm a **Computer Science student at NUS** (AI specialisation) who loves building things that matter, from full-stack mobile apps to AI-powered systems to webapps that help solve niche problems. currently interning at **GovTech Singapore**, making government digital services better for everyone.
 
-when i'm not coding, you'll find me playing music, running hackathons, or wrangling 85 freshmen as a creative director 🎭
+when i'm not coding, you'll find me playing music, joining hackathons, or playing video games!
 
 ---
 
-###what i've been up to
+### what i've been up to
 
-**GovTech Singapore** — shipping LLM integrations, frontend UX, and AWS services across multiple gov projects
-**[Lyst](https://github.com/jsprdev)** — a fullstack mobile app with AI-powered date planning (top 4% in NUS Orbital!)
+**GovTech Singapore** — shipping LLM integrated projects, frontend UI, s across multiple government projects
+
+**Sneaker Painter** — a webapp that allows for real-time 3D visualisation of sneaker customisation
+
+**Lyst** — a fullstack mobile app with AI-powered date planning (top 4% in NUS Orbital!)
+
 **Hack 'n' Roll 2026** — built a real-time emotion + body language recognition system → **Top 9 / 800+ participants**
+
 **Cursor Hackathon 2025** — 3rd place, built a multimodal AI digital clone app using DeepFace, ElevenLabs & Gemini
+
 **NUS GDG GameCraft** — won champion building a 2D platformer + composed 3 original tracks for it 🎵
 
 
