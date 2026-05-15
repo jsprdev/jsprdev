@@ -22,7 +22,7 @@ when i'm not coding, you'll find me playing music, joining hackathons, or playin
 
 ### what i've been up to
 
-**GovTech Singapore** — shipping LLM integrated projects, frontend UI, s across multiple government projects
+**GovTech Singapore** — shipping LLM integrated projects, fullstack projects, across multiple government problem domains
 
 **Sneaker Painter** — a webapp that allows for real-time 3D visualisation of sneaker customisation
 
