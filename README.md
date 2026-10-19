@@ -18,15 +18,9 @@
 
 <img src="assets/pixel-guitar.svg" height="104" alt="pixel art guitar" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/pixel-coffee.svg" height="84" alt="pixel art coffee" />
 
-<sub>powered by guitar riffs and good coffee</sub>
-
 </div>
 
 <br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ### 🧑‍💻 hey, i'm jasper
 
@@ -39,17 +33,6 @@ i'm a **curious builder and AI / fullstack engineer** who turns ambitious ideas 
 - 🏆 **3x hackathon winner** (Hack 'n Roll, Cursor Hackathon SG, GDG GameCraft)
 
 when i'm not coding, you'll find me playing the guitar, playing video games, or catching up with friends over a good cup of coffee ☕
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jsprdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F7B500&icon_color=F7B500&text_color=9CA3AF&count_private=true&include_all_commits=true" alt="github stats" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=jsprdev&theme=tokyonight&hide_border=true&background=00000000&ring=F7B500&fire=FF8A3D&currStreakLabel=F7B500" alt="streak" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 
